@@ -78,5 +78,6 @@
 
 </div>
 
+![snake gif](https://github.com/yesith-sri/yesith-sri/blob/output/github-snake-dark.svg)
 
 
