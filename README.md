@@ -1,9 +1,11 @@
+  <img  src="https://komarev.com/ghpvc/?username=yesith-sri&style=flat-square&color=blue" alt="Profile views" />
+  
 # 💫 About Me:
 🔭 I’m currently working on: Building innovative web applications and exploring backend technologies.<br>👯 I’m looking to collaborate on: Open-source projects and cutting-edge software solutions.<br>🤝 I’m looking for help with: Enhancing my expertise in cloud computing and AI integrations.<br>🌱 I’m currently learning: Advanced Spring Boot features, Angular, and AI-driven development.<br>💬 Ask me about: Web development, RESTful APIs, and software architecture best practices.<br>⚡ Fun fact: I love discovering unique solutions to complex problems and experimenting with emerging tech!
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yesith.hansana.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yesithhansana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yesith-sri-hansana) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yesith.hansana.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_yesith.h_?igsh=djVmMzhyOHN4YWY2&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesith-sri-hansana-7aa91a293/) 
 
 <div align="center">
 
@@ -11,8 +13,6 @@
   <img src="https://camo.githubusercontent.com/23a9e2479739a25ba980f3429c1f1f9f39822a73ba2d84e06e473b37f99014e3/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578627a6473624855336247787a65545132596a4e6b656d646b4e6d5a6a64446872656a4268627a5234616e4a6d61576779644842304f535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f373858434642474f6c53366b65593142696c2f67697068792e676966" alt="Demo GIF" width="300"/>
 </a>
 
-
-  
 # 💻 Tech Stack:
 
 <div align="center">
@@ -78,7 +78,5 @@
 
 </div>
 
----
-[![](https://visitcount.itsvg.in/api?id=yesith-sri&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
