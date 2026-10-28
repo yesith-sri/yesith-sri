@@ -1,100 +1,84 @@
 <svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
-  <title id="title">Yesith Sri Hansana — Software Engineer</title>
-  <desc id="desc">Animated purple and blue developer profile banner with a terminal window.</desc>
+  <title id="title">Yesith Hansana — Full-Stack Developer</title>
+  <desc id="desc">Animated editorial banner in the warm neutral color palette of hansana.dev.</desc>
 
   <defs>
-    <linearGradient id="background" x1="50" y1="10" x2="1130" y2="350" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#090B18" />
-      <stop offset="0.48" stop-color="#15112E" />
-      <stop offset="1" stop-color="#071C2B" />
+    <linearGradient id="paper" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F1F0ED" />
+      <stop offset="1" stop-color="#E8E8E3" />
     </linearGradient>
-    <linearGradient id="accent" x1="180" y1="70" x2="820" y2="310" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#A78BFA" />
-      <stop offset="0.5" stop-color="#38BDF8" />
-      <stop offset="1" stop-color="#2DD4BF" />
+    <linearGradient id="olive" x1="800" y1="55" x2="1110" y2="305" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A29E9A" />
+      <stop offset="1" stop-color="#8C8C73" />
     </linearGradient>
-    <linearGradient id="terminal" x1="850" y1="65" x2="1090" y2="300" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#20233C" stop-opacity="0.96" />
-      <stop offset="1" stop-color="#111425" stop-opacity="0.94" />
-    </linearGradient>
-    <radialGradient id="glowPurple">
-      <stop stop-color="#8B5CF6" stop-opacity="0.45" />
-      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0" />
-    </radialGradient>
-    <radialGradient id="glowBlue">
-      <stop stop-color="#0EA5E9" stop-opacity="0.38" />
-      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0" />
-    </radialGradient>
-    <filter id="blur" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="18" />
-    </filter>
-    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
-      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000000" flood-opacity="0.38" />
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" stroke="#D1D1C7" stroke-opacity="0.44" stroke-width="1" />
+    </pattern>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#393632" flood-opacity="0.16" />
     </filter>
     <clipPath id="frame">
-      <rect width="1200" height="360" rx="26" />
+      <rect width="1200" height="360" rx="24" />
     </clipPath>
   </defs>
 
   <g clip-path="url(#frame)">
-    <rect width="1200" height="360" fill="url(#background)" />
-    <path d="M0 284C213 197 354 355 596 277C811 208 1008 238 1200 144V360H0V284Z" fill="#111B33" fill-opacity="0.72" />
-    <path d="M0 304C224 229 383 370 610 302C843 232 1051 278 1200 207" stroke="url(#accent)" stroke-opacity="0.2" stroke-width="2" />
+    <rect width="1200" height="360" fill="url(#paper)" />
+    <rect width="1200" height="360" fill="url(#grid)" />
 
-    <circle cx="160" cy="58" r="180" fill="url(#glowPurple)" filter="url(#blur)">
-      <animate attributeName="cx" values="160;245;160" dur="9s" repeatCount="indefinite" />
-      <animate attributeName="cy" values="58;100;58" dur="7s" repeatCount="indefinite" />
+    <circle cx="115" cy="62" r="72" fill="#D1D1C7" fill-opacity="0.38">
+      <animate attributeName="r" values="64;78;64" dur="7s" repeatCount="indefinite" />
     </circle>
-    <circle cx="1020" cy="290" r="205" fill="url(#glowBlue)" filter="url(#blur)">
-      <animate attributeName="cx" values="1020;940;1020" dur="10s" repeatCount="indefinite" />
-      <animate attributeName="cy" values="290;225;290" dur="8s" repeatCount="indefinite" />
+    <circle cx="760" cy="310" r="92" fill="#BFBFB1" fill-opacity="0.22">
+      <animate attributeName="cx" values="760;805;760" dur="9s" repeatCount="indefinite" />
     </circle>
 
-    <g opacity="0.24">
-      <circle cx="60" cy="74" r="3" fill="#C4B5FD"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite" /></circle>
-      <circle cx="706" cy="67" r="2.5" fill="#7DD3FC"><animate attributeName="opacity" values="1;0.2;1" dur="4s" repeatCount="indefinite" /></circle>
-      <circle cx="1125" cy="86" r="3" fill="#5EEAD4"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.5s" repeatCount="indefinite" /></circle>
-      <circle cx="755" cy="320" r="2" fill="#C4B5FD"><animate attributeName="opacity" values="1;0.1;1" dur="2.8s" repeatCount="indefinite" /></circle>
+    <g transform="translate(65 42)">
+      <text x="0" y="0" dominant-baseline="hanging" fill="#6B645C" font-family="Courier New, monospace" font-size="14" font-weight="700" letter-spacing="2.6">PORTFOLIO / 2026</text>
+      <circle cx="660" cy="8" r="5" fill="#8C8C73">
+        <animate attributeName="opacity" values="1;0.28;1" dur="1.8s" repeatCount="indefinite" />
+      </circle>
+      <text x="674" y="0" dominant-baseline="hanging" fill="#524D47" font-family="Courier New, monospace" font-size="13" font-weight="700">AVAILABLE FOR COLLABORATION</text>
     </g>
 
-    <g transform="translate(82 77)">
-      <rect x="0" y="2" width="7" height="205" rx="3.5" fill="url(#accent)" />
-      <rect x="0" y="2" width="7" height="52" rx="3.5" fill="#FFFFFF">
-        <animate attributeName="y" values="2;155;2" dur="4.8s" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1" repeatCount="indefinite" />
-      </rect>
-
-      <text x="32" y="34" fill="#93C5FD" font-family="Segoe UI, Arial, sans-serif" font-size="17" font-weight="600" letter-spacing="3">HELLO, WORLD — I'M</text>
-      <text x="29" y="105" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="58" font-weight="750" letter-spacing="-1.5">YESITH SRI</text>
-      <text x="31" y="151" fill="url(#accent)" font-family="Segoe UI, Arial, sans-serif" font-size="28" font-weight="650">Software Engineer · Full-Stack Builder</text>
-      <text x="31" y="193" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="18">Designing clean experiences. Engineering reliable systems.</text>
-
-      <g transform="translate(31 220)">
-        <rect width="178" height="38" rx="19" fill="#8B5CF6" fill-opacity="0.14" stroke="#A78BFA" stroke-opacity="0.55" />
-        <circle cx="21" cy="19" r="5" fill="#4ADE80"><animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite" /></circle>
-        <text x="36" y="25" fill="#E2E8F0" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="600">OPEN TO COLLABS</text>
+    <g font-family="Arial Narrow, Segoe UI, Arial, sans-serif" fill="#171717" font-weight="750" letter-spacing="-4">
+      <g>
+        <text x="61" y="168" font-size="108">YESITH</text>
+        <animateTransform attributeName="transform" type="translate" values="0 52;0 0" begin="0.15s" dur="0.65s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
+      </g>
+      <g>
+        <text x="61" y="267" font-size="108">HANSANA</text>
+        <animateTransform attributeName="transform" type="translate" values="0 52;0 0" begin="0.32s" dur="0.68s" calcMode="spline" keySplines="0.2 0.8 0.2 1" fill="freeze" />
       </g>
     </g>
 
-    <g transform="translate(844 62)" filter="url(#shadow)">
-      <rect width="292" height="238" rx="18" fill="url(#terminal)" stroke="#64748B" stroke-opacity="0.35" />
-      <path d="M0 47H292" stroke="#64748B" stroke-opacity="0.28" />
-      <circle cx="23" cy="24" r="5" fill="#FB7185" />
-      <circle cx="42" cy="24" r="5" fill="#FBBF24" />
-      <circle cx="61" cy="24" r="5" fill="#4ADE80" />
-      <text x="146" y="29" text-anchor="middle" fill="#94A3B8" font-family="Consolas, monospace" font-size="11">yesith@dev: ~</text>
-
-      <text x="22" y="78" fill="#38BDF8" font-family="Consolas, monospace" font-size="13">$</text>
-      <text x="39" y="78" fill="#E2E8F0" font-family="Consolas, monospace" font-size="13">whoami</text>
-      <text x="22" y="105" fill="#A78BFA" font-family="Consolas, monospace" font-size="13">software_engineer</text>
-
-      <text x="22" y="140" fill="#38BDF8" font-family="Consolas, monospace" font-size="13">$</text>
-      <text x="39" y="140" fill="#E2E8F0" font-family="Consolas, monospace" font-size="13">current_focus</text>
-      <text x="22" y="167" fill="#5EEAD4" font-family="Consolas, monospace" font-size="13">[web, backend, cloud, ai]</text>
-
-      <text x="22" y="202" fill="#38BDF8" font-family="Consolas, monospace" font-size="13">$</text>
-      <rect x="39" y="190" width="8" height="16" rx="1" fill="#E2E8F0"><animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite" /></rect>
+    <g transform="translate(65 305)">
+      <rect width="616" height="2" rx="1" fill="#BFBFB1" />
+      <rect width="130" height="2" rx="1" fill="#393632">
+        <animate attributeName="x" values="0;486;0" dur="6s" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1" repeatCount="indefinite" />
+      </rect>
+      <text x="0" y="28" fill="#6B645C" font-family="Courier New, monospace" font-size="14" font-weight="700" letter-spacing="1.3">FULL-STACK DEVELOPER · SRI LANKA</text>
     </g>
 
-    <rect x="1" y="1" width="1198" height="358" rx="25" stroke="url(#accent)" stroke-opacity="0.36" stroke-width="2" />
+    <g transform="translate(858 54)" filter="url(#shadow)">
+      <rect width="278" height="252" rx="18" fill="#080807" />
+      <rect x="1" y="1" width="276" height="250" rx="17" stroke="#393632" stroke-width="2" />
+      <rect x="24" y="26" width="64" height="24" rx="12" fill="url(#olive)" />
+      <text x="56" y="43" text-anchor="middle" fill="#F1F0ED" font-family="Courier New, monospace" font-size="10" font-weight="700">PROFILE</text>
+      <text x="235" y="43" text-anchor="middle" fill="#7E766C" font-family="Courier New, monospace" font-size="13">01</text>
+
+      <text x="24" y="94" fill="#F1F0ED" font-family="Arial Narrow, Segoe UI, Arial, sans-serif" font-size="29" font-weight="700">BUILD</text>
+      <text x="24" y="130" fill="#D1D1C7" font-family="Arial Narrow, Segoe UI, Arial, sans-serif" font-size="29" font-weight="700">SHIP</text>
+      <text x="24" y="166" fill="#8C8C73" font-family="Arial Narrow, Segoe UI, Arial, sans-serif" font-size="29" font-weight="700">REFINE</text>
+
+      <path d="M24 190H254" stroke="#393632" />
+      <text x="24" y="219" fill="#BFBFB1" font-family="Courier New, monospace" font-size="12">WEB · BACKEND · CLOUD · AI</text>
+      <rect x="24" y="230" width="7" height="7" rx="3.5" fill="#8C8C73">
+        <animate attributeName="opacity" values="1;0.2;1" dur="1.6s" repeatCount="indefinite" />
+      </rect>
+      <rect x="38" y="232" width="90" height="3" rx="1.5" fill="#524D47" />
+    </g>
+
+    <rect x="1" y="1" width="1198" height="358" rx="23" stroke="#BFBFB1" stroke-width="2" />
   </g>
 </svg>

@@ -1,41 +1,65 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Yesith Sri Hansana — Software Engineer animated banner" />
+  <a href="https://www.hansana.dev/">
+    <img src="./assets/hero.svg" width="100%" alt="Yesith Hansana — Full-Stack Developer animated portfolio banner" />
+  </a>
 
   <br />
 
-  <a href="https://github.com/yesith-sri?tab=followers">
-    <img src="https://img.shields.io/github/followers/yesith-sri?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=7c3aed" alt="GitHub followers" />
+  <a href="https://www.hansana.dev/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-HANSANA.DEV-393632?style=for-the-badge&logo=googlechrome&logoColor=f1f0ed" alt="Visit hansana.dev" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=yesith-sri&label=Profile%20Views&style=for-the-badge&color=0ea5e9" alt="Profile views" />
+  <a href="https://github.com/yesith-sri?tab=followers">
+    <img src="https://img.shields.io/github/followers/yesith-sri?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=f1f0ed&color=6b645c" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=yesith-sri&label=PROFILE%20VIEWS&style=for-the-badge&color=8c8c73" alt="Profile views" />
   <a href="https://github.com/yesith-sri?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/yesith-sri?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=Stars&color=f59e0b" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/yesith-sri?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=f1f0ed&label=STARS&color=524d47" alt="GitHub stars" />
   </a>
 </div>
 
 <br />
 
-## Hello, I'm Yesith 👋
+<table>
+  <tr>
+    <td width="34%" align="center" valign="middle">
+      <img src="./assets/profile.png" width="280" alt="Portrait of Yesith Sri Hansana" />
+    </td>
+    <td width="66%" valign="middle">
+      <p><code>FULL-STACK DEVELOPER · SRI LANKA</code></p>
+      <h2>Building thoughtful, high-performance digital experiences.</h2>
+      <p>
+        I'm <strong>Yesith S. Hansana</strong>. I turn ambitious ideas into polished products—pairing
+        responsive interfaces with reliable backend systems, clean architecture, and careful details.
+      </p>
+      <p>
+        <a href="https://www.hansana.dev/"><strong>Explore my portfolio →</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/yesith-sri?tab=repositories"><strong>View my work →</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-> I enjoy turning ambitious ideas into reliable, polished software — from responsive interfaces to scalable backend services.
+## A little more about me
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 What I'm building</h3>
-      <p>Innovative web applications with clean architecture, thoughtful user experiences, and dependable APIs.</p>
+      <h3>01 / What I'm building</h3>
+      <p>Web applications with clean architecture, considered user experiences, and dependable APIs.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>🌱 What I'm exploring</h3>
+      <h3>02 / What I'm exploring</h3>
       <p>Advanced Spring Boot, Angular, cloud-native systems, and practical AI integrations.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤝 Let's collaborate</h3>
+      <h3>03 / Let's collaborate</h3>
       <p>Open-source tools, full-stack products, backend platforms, and creative software solutions.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>💬 Ask me about</h3>
+      <h3>04 / Ask me about</h3>
       <p>Web development, REST APIs, Java ecosystems, and software architecture best practices.</p>
     </td>
   </tr>
@@ -43,19 +67,19 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yesith-sri-hansana-7aa91a293/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-393632?style=for-the-badge&logo=linkedin&logoColor=f1f0ed" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/_yesith.h_/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-6B645C?style=for-the-badge&logo=instagram&logoColor=f1f0ed" alt="Instagram" />
   </a>
   <a href="https://facebook.com/yesith.hansana.5">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/FACEBOOK-CONNECT-8C8C73?style=for-the-badge&logo=facebook&logoColor=f1f0ed" alt="Facebook" />
   </a>
 </div>
 
 <br />
 
-## 🧰 Technology Toolbox
+## Technology toolbox
 
 <table>
   <tr>
@@ -67,49 +91,49 @@
   <tr>
     <td align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,html,css,bootstrap&perline=4" alt="JavaScript, TypeScript, React, Angular, Next.js, HTML, CSS and Bootstrap" />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,html,css,bootstrap&amp;perline=4&amp;theme=light" alt="JavaScript, TypeScript, React, Angular, Next.js, HTML, CSS and Bootstrap" />
     </td>
     <td align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,cs,dotnet,c&perline=4" alt="Java, Spring, Node.js, Express, C sharp, dotnet and C" />
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,cs,dotnet,c&amp;perline=4&amp;theme=light" alt="Java, Spring, Node.js, Express, C sharp, dotnet and C" />
     </td>
     <td align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,gitlab,vercel&perline=3" alt="MySQL, Docker, Git, GitHub, GitLab and Vercel" />
+      <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,gitlab,vercel&amp;perline=3&amp;theme=light" alt="MySQL, Docker, Git, GitHub, GitLab and Vercel" />
     </td>
     <td align="center" valign="top">
       <br />
-      <img src="https://skillicons.dev/icons?i=idea,vscode,webstorm,npm&perline=2" alt="IntelliJ IDEA, Visual Studio Code, WebStorm and npm" />
+      <img src="https://skillicons.dev/icons?i=idea,vscode,webstorm,npm&amp;perline=2&amp;theme=light" alt="IntelliJ IDEA, Visual Studio Code, WebStorm and npm" />
     </td>
   </tr>
 </table>
 
 <br />
 
-## 📊 Developer Analytics
+## Developer analytics
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesith-sri&theme=tokyonight" alt="Yesith's contribution overview" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesith-sri&amp;theme=github" alt="Yesith's contribution overview" />
 </div>
 
 <div align="center">
   <a href="https://github.com/yesith-sri">
-    <img height="185" src="https://github-readme-stats.vercel.app/api?username=yesith-sri&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="Yesith's GitHub score and statistics" />
+    <img height="185" src="https://github-readme-stats.vercel.app/api?username=yesith-sri&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;bg_color=f1f0ed&amp;title_color=171717&amp;text_color=393632&amp;icon_color=8c8c73&amp;ring_color=8c8c73&amp;border_color=bfbfb1" alt="Yesith's GitHub score and statistics" />
   </a>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="185" src="https://streak-stats.demolab.com?user=yesith-sri&theme=tokyonight&hide_border=true" alt="Yesith's contribution streak" />
+    <img height="185" src="https://streak-stats.demolab.com?user=yesith-sri&amp;background=F1F0ED&amp;border=BFBFB1&amp;ring=8C8C73&amp;fire=393632&amp;currStreakNum=171717&amp;sideNums=171717&amp;currStreakLabel=6B645C&amp;sideLabels=6B645C&amp;dates=7E766C" alt="Yesith's contribution streak" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/yesith-sri?tab=repositories">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesith-sri&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=tokyonight" alt="Yesith's most-used languages" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesith-sri&amp;layout=compact&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;bg_color=f1f0ed&amp;title_color=171717&amp;text_color=393632&amp;border_color=bfbfb1" alt="Yesith's most-used languages" />
   </a>
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yesith-sri&theme=tokyonight&utcOffset=5.5" alt="Yesith's productive coding hours" />
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yesith-sri&amp;theme=github&amp;utcOffset=5.5" alt="Yesith's productive coding hours" />
 </div>
 
 <details>
-  <summary><strong>ℹ️ How to read this dashboard</strong></summary>
+  <summary><strong>How to read this dashboard</strong></summary>
   <br />
   <p>
     The score card summarizes public commits, pull requests, issues, reviews, stars, and contributions.
@@ -120,7 +144,7 @@
 
 <br />
 
-## 🐍 Contribution Journey
+## Contribution journey
 
 <div align="center">
   <picture>
@@ -133,7 +157,7 @@
 <br />
 
 <div align="center">
-  <strong>Code with purpose. Learn without limits. Build things that matter.</strong>
+  <code>DESIGN WITH INTENT · ENGINEER WITH CARE · KEEP SHIPPING</code>
   <br /><br />
-  <a href="https://github.com/yesith-sri?tab=repositories">Explore my repositories →</a>
+  <a href="https://www.hansana.dev/"><strong>hansana.dev</strong></a>
 </div>
