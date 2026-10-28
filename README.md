@@ -196,7 +196,7 @@
 <div align="center">
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yesith-sri&amp;theme=solarized" alt="Yesith's most-used commit languages" />
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="200" src="https://streak-stats.demolab.com?user=yesith-sri&amp;background=F1F0ED&amp;border=BFBFB1&amp;ring=8C8C73&amp;fire=393632&amp;currStreakNum=171717&amp;sideNums=171717&amp;currStreakLabel=6B645C&amp;sideLabels=6B645C&amp;dates=7E766C" alt="Yesith's contribution streak" />
+    <img height="200" src="https://streak-stats.demolab.com?user=yesith-sri&amp;background=FDF6E3&amp;border=EEE8D5&amp;ring=B58900&amp;fire=B58900&amp;currStreakNum=586E75&amp;sideNums=586E75&amp;currStreakLabel=586E75&amp;sideLabels=586E75&amp;dates=839496" alt="Yesith's contribution streak" />
   </a>
 </div>
 
