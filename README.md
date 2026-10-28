@@ -1,83 +1,139 @@
-  <img  src="https://komarev.com/ghpvc/?username=yesith-sri&style=flat-square&color=blue" alt="Profile views" />
-  
-# 💫 About Me:
-🔭 I’m currently working on: Building innovative web applications and exploring backend technologies.<br>👯 I’m looking to collaborate on: Open-source projects and cutting-edge software solutions.<br>🤝 I’m looking for help with: Enhancing my expertise in cloud computing and AI integrations.<br>🌱 I’m currently learning: Advanced Spring Boot features, Angular, and AI-driven development.<br>💬 Ask me about: Web development, RESTful APIs, and software architecture best practices.<br>⚡ Fun fact: I love discovering unique solutions to complex problems and experimenting with emerging tech!
-
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/yesith.hansana.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/_yesith.h_?igsh=djVmMzhyOHN4YWY2&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yesith-sri-hansana-7aa91a293/) 
-
 <div align="center">
+  <img src="./assets/hero.svg" width="100%" alt="Yesith Sri Hansana — Software Engineer animated banner" />
 
-<a href="https://camo.githubusercontent.com/23a9e2479739a25ba980f3429c1f1f9f39822a73ba2d84e06e473b37f99014e3/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578627a6473624855336247787a65545132596a4e6b656d646b4e6d5a6a64446872656a4268627a5234616e4a6d61576779644842304f535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f373858434642474f6c53366b65593142696c2f67697068792e676966" target="_blank">
-  <img src="https://camo.githubusercontent.com/23a9e2479739a25ba980f3429c1f1f9f39822a73ba2d84e06e473b37f99014e3/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578627a6473624855336247787a65545132596a4e6b656d646b4e6d5a6a64446872656a4268627a5234616e4a6d61576779644842304f535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f373858434642474f6c53366b65593142696c2f67697068792e676966" alt="Demo GIF" width="300"/>
-</a>
+  <br />
 
-# 💻 Tech Stack:
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/c/original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/webstorm/000000" height="40" alt="webstorm logo"  />
-  <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/dot-net/original.svg" height="40" alt=".net logo"  />
-  <img width="12" />
+  <a href="https://github.com/yesith-sri?tab=followers">
+    <img src="https://img.shields.io/github/followers/yesith-sri?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=7c3aed" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=yesith-sri&label=Profile%20Views&style=for-the-badge&color=0ea5e9" alt="Profile views" />
+  <a href="https://github.com/yesith-sri?tab=repositories&sort=stargazers">
+    <img src="https://img.shields.io/github/stars/yesith-sri?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white&label=Stars&color=f59e0b" alt="GitHub stars" />
+  </a>
 </div>
 
+<br />
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yesith-sri&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yesith-sri&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yesith-sri&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## Hello, I'm Yesith 👋
 
+> I enjoy turning ambitious ideas into reliable, polished software — from responsive interfaces to scalable backend services.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 What I'm building</h3>
+      <p>Innovative web applications with clean architecture, thoughtful user experiences, and dependable APIs.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌱 What I'm exploring</h3>
+      <p>Advanced Spring Boot, Angular, cloud-native systems, and practical AI integrations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤝 Let's collaborate</h3>
+      <p>Open-source tools, full-stack products, backend platforms, and creative software solutions.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💬 Ask me about</h3>
+      <p>Web development, REST APIs, Java ecosystems, and software architecture best practices.</p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yesith-sri-hansana-7aa91a293/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_yesith.h_/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://facebook.com/yesith.hansana.5">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </div>
 
-![snake gif](https://github.com/yesith-sri/yesith-sri/blob/output/github-snake-dark.svg)
+<br />
 
+## 🧰 Technology Toolbox
 
+<table>
+  <tr>
+    <td align="center" width="25%"><strong>Frontend</strong></td>
+    <td align="center" width="25%"><strong>Backend</strong></td>
+    <td align="center" width="25%"><strong>Data &amp; DevOps</strong></td>
+    <td align="center" width="25%"><strong>Workflow</strong></td>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <br />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,html,css,bootstrap&perline=4" alt="JavaScript, TypeScript, React, Angular, Next.js, HTML, CSS and Bootstrap" />
+    </td>
+    <td align="center" valign="top">
+      <br />
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,cs,dotnet,c&perline=4" alt="Java, Spring, Node.js, Express, C sharp, dotnet and C" />
+    </td>
+    <td align="center" valign="top">
+      <br />
+      <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,gitlab,vercel&perline=3" alt="MySQL, Docker, Git, GitHub, GitLab and Vercel" />
+    </td>
+    <td align="center" valign="top">
+      <br />
+      <img src="https://skillicons.dev/icons?i=idea,vscode,webstorm,npm&perline=2" alt="IntelliJ IDEA, Visual Studio Code, WebStorm and npm" />
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## 📊 Developer Analytics
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesith-sri&theme=tokyonight" alt="Yesith's contribution overview" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/yesith-sri">
+    <img height="185" src="https://github-readme-stats.vercel.app/api?username=yesith-sri&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight" alt="Yesith's GitHub score and statistics" />
+  </a>
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="185" src="https://streak-stats.demolab.com?user=yesith-sri&theme=tokyonight&hide_border=true" alt="Yesith's contribution streak" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/yesith-sri?tab=repositories">
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesith-sri&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5&hide_border=true&theme=tokyonight" alt="Yesith's most-used languages" />
+  </a>
+  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yesith-sri&theme=tokyonight&utcOffset=5.5" alt="Yesith's productive coding hours" />
+</div>
+
+<details>
+  <summary><strong>ℹ️ How to read this dashboard</strong></summary>
+  <br />
+  <p>
+    The score card summarizes public commits, pull requests, issues, reviews, stars, and contributions.
+    Language percentages describe repository code volume, not personal proficiency. Some cards are cached,
+    so today's activity can take a little while to appear.
+  </p>
+</details>
+
+<br />
+
+## 🐍 Contribution Journey
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yesith-sri/yesith-sri/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yesith-sri/yesith-sri/output/github-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/yesith-sri/yesith-sri/output/github-snake.svg" alt="Snake animation moving through Yesith's contribution calendar" />
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <strong>Code with purpose. Learn without limits. Build things that matter.</strong>
+  <br /><br />
+  <a href="https://github.com/yesith-sri?tab=repositories">Explore my repositories →</a>
+</div>
