@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.hansana.dev/">
-    <img src="./assets/hero.svg" width="100%" alt="Yesith Hansana — Full-Stack Developer animated portfolio banner" />
+    <img src="./assets/portfolio-banner.png" width="100%" alt="Yesith Hansana — Full-Stack Developer portfolio banner" />
   </a>
 
   <br />
@@ -19,26 +19,18 @@
 
 <br />
 
-<table>
-  <tr>
-    <td width="34%" align="center" valign="middle">
-      <img src="./assets/profile.png" width="280" alt="Portrait of Yesith Sri Hansana" />
-    </td>
-    <td width="66%" valign="middle">
-      <p><code>FULL-STACK DEVELOPER · SRI LANKA</code></p>
-      <h2>Building thoughtful, high-performance digital experiences.</h2>
-      <p>
-        I'm <strong>Yesith S. Hansana</strong>. I turn ambitious ideas into polished products—pairing
-        responsive interfaces with reliable backend systems, clean architecture, and careful details.
-      </p>
-      <p>
-        <a href="https://www.hansana.dev/"><strong>Explore my portfolio →</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/yesith-sri?tab=repositories"><strong>View my work →</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <p><code>FULL-STACK DEVELOPER · SRI LANKA</code></p>
+  <p>
+    I turn ambitious ideas into polished products—pairing responsive interfaces with reliable
+    backend systems, clean architecture, and careful details.
+  </p>
+  <p>
+    <a href="https://www.hansana.dev/"><strong>Explore hansana.dev →</strong></a>
+    &nbsp;·&nbsp;
+    <a href="https://github.com/yesith-sri?tab=repositories"><strong>View my work →</strong></a>
+  </p>
+</div>
 
 ## A little more about me
 
@@ -81,40 +73,64 @@
 
 ## Technology toolbox
 
+### Languages &amp; backend
+
 <table>
   <tr>
-    <td align="center" width="25%"><strong>Frontend</strong></td>
-    <td align="center" width="25%"><strong>Backend</strong></td>
-    <td align="center" width="25%"><strong>Data &amp; DevOps</strong></td>
-    <td align="center" width="25%"><strong>Workflow</strong></td>
+    <td width="8%"><code>01</code></td>
+    <td><strong>Java, C/C++, C#, .NET, Python, Go</strong></td>
   </tr>
   <tr>
-    <td align="center" valign="top">
-      <br />
-      <img src="https://skillicons.dev/icons?i=js,ts,react,angular,nextjs,html,css,bootstrap&amp;perline=4&amp;theme=light" alt="JavaScript, TypeScript, React, Angular, Next.js, HTML, CSS and Bootstrap" />
-    </td>
-    <td align="center" valign="top">
-      <br />
-      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,cs,dotnet,c&amp;perline=4&amp;theme=light" alt="Java, Spring, Node.js, Express, C sharp, dotnet and C" />
-    </td>
-    <td align="center" valign="top">
-      <br />
-      <img src="https://skillicons.dev/icons?i=mysql,docker,git,github,gitlab,vercel&amp;perline=3&amp;theme=light" alt="MySQL, Docker, Git, GitHub, GitLab and Vercel" />
-    </td>
-    <td align="center" valign="top">
-      <br />
-      <img src="https://skillicons.dev/icons?i=idea,vscode,webstorm,npm&amp;perline=2&amp;theme=light" alt="IntelliJ IDEA, Visual Studio Code, WebStorm and npm" />
-    </td>
+    <td><code>02</code></td>
+    <td><strong>JavaScript, TypeScript, Node.js, Bun, Express</strong></td>
+  </tr>
+  <tr>
+    <td><code>03</code></td>
+    <td><strong>Spring Boot, Swagger, Zod, REST APIs</strong></td>
+  </tr>
+</table>
+
+### Frontend
+
+<table>
+  <tr>
+    <td width="8%"><code>01</code></td>
+    <td><strong>React, Next.js, TanStack</strong></td>
+  </tr>
+  <tr>
+    <td><code>02</code></td>
+    <td><strong>Angular, Tailwind CSS, Bootstrap</strong></td>
+  </tr>
+  <tr>
+    <td><code>03</code></td>
+    <td><strong>HTML5, CSS3</strong></td>
+  </tr>
+</table>
+
+### Data, cloud &amp; tooling
+
+<table>
+  <tr>
+    <td width="8%"><code>01</code></td>
+    <td><strong>MySQL, PostgreSQL, Neon DB, Redis, Firebase</strong></td>
+  </tr>
+  <tr>
+    <td><code>02</code></td>
+    <td><strong>Flyway, Liquibase, DBeaver, Docker, Kubernetes, Linux, ngrok, MobaXterm</strong></td>
+  </tr>
+  <tr>
+    <td><code>03</code></td>
+    <td><strong>Google Cloud, AWS, Tigris S3, Vercel, Git, GitHub, GitLab</strong></td>
+  </tr>
+  <tr>
+    <td><code>04</code></td>
+    <td><strong>IntelliJ IDEA, VS Code, WebStorm, npm, Jira</strong></td>
   </tr>
 </table>
 
 <br />
 
 ## Developer analytics
-
-<div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesith-sri&amp;theme=github" alt="Yesith's contribution overview" />
-</div>
 
 <div align="center">
   <a href="https://github.com/yesith-sri">
@@ -129,7 +145,6 @@
   <a href="https://github.com/yesith-sri?tab=repositories">
     <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesith-sri&amp;layout=compact&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;bg_color=f1f0ed&amp;title_color=171717&amp;text_color=393632&amp;border_color=bfbfb1" alt="Yesith's most-used languages" />
   </a>
-  <img height="190" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yesith-sri&amp;theme=github&amp;utcOffset=5.5" alt="Yesith's productive coding hours" />
 </div>
 
 <details>
