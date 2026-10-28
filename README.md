@@ -81,7 +81,7 @@
     <td>
       <strong>Java, C/C++, C#, .NET, Python, Go</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=java,c,cpp,cs,dotnet,py,go&amp;theme=dark" alt="Java, C, C++, C sharp, dotnet, Python and Go" />
+      <img height="52" src="https://skillicons.dev/icons?i=java,c,cpp,cs,dotnet,py,go&amp;theme=dark" alt="Java, C, C++, C sharp, dotnet, Python and Go" />
     </td>
   </tr>
   <tr>
@@ -89,7 +89,7 @@
     <td>
       <strong>JavaScript, TypeScript, Node.js, Bun, Express</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,express&amp;theme=dark" alt="JavaScript, TypeScript, Node.js, Bun and Express" />
+      <img height="52" src="https://skillicons.dev/icons?i=js,ts,nodejs,bun,express&amp;theme=dark" alt="JavaScript, TypeScript, Node.js, Bun and Express" />
     </td>
   </tr>
   <tr>
@@ -97,10 +97,10 @@
     <td>
       <strong>Spring Boot, Swagger, Zod, REST APIs</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=spring&amp;theme=dark" alt="Spring Boot" />
-      <img src="https://img.shields.io/badge/Swagger-393632?style=for-the-badge&amp;logo=swagger&amp;logoColor=f1f0ed" alt="Swagger" />
-      <img src="https://img.shields.io/badge/Zod-393632?style=for-the-badge&amp;logo=zod&amp;logoColor=f1f0ed" alt="Zod" />
-      <img src="https://img.shields.io/badge/REST_API-8c8c73?style=for-the-badge&amp;logo=fastapi&amp;logoColor=f1f0ed" alt="REST APIs" />
+      <img height="52" src="https://skillicons.dev/icons?i=spring&amp;theme=dark" alt="Spring Boot" />&nbsp;&nbsp;
+      <img height="52" width="52" src="https://cdn.simpleicons.org/swagger" alt="Swagger" title="Swagger" />&nbsp;&nbsp;
+      <img height="52" width="52" src="https://cdn.simpleicons.org/zod" alt="Zod" title="Zod" />&nbsp;&nbsp;
+      <img height="52" width="52" src="https://cdn.simpleicons.org/fastapi" alt="REST APIs" title="REST APIs" />
     </td>
   </tr>
 </table>
@@ -113,8 +113,8 @@
     <td>
       <strong>React, Next.js, TanStack</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=react,nextjs&amp;theme=dark" alt="React and Next.js" />
-      <img src="https://img.shields.io/badge/TanStack-393632?style=for-the-badge&amp;logo=reactquery&amp;logoColor=f1f0ed" alt="TanStack" />
+      <img height="52" src="https://skillicons.dev/icons?i=react,nextjs&amp;theme=dark" alt="React and Next.js" />&nbsp;&nbsp;
+      <img height="52" width="52" src="https://cdn.simpleicons.org/reactquery" alt="TanStack" title="TanStack" />
     </td>
   </tr>
   <tr>
@@ -122,7 +122,7 @@
     <td>
       <strong>Angular, Tailwind CSS, Bootstrap</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=angular,tailwind,bootstrap&amp;theme=dark" alt="Angular, Tailwind CSS and Bootstrap" />
+      <img height="52" src="https://skillicons.dev/icons?i=angular,tailwind,bootstrap&amp;theme=dark" alt="Angular, Tailwind CSS and Bootstrap" />
     </td>
   </tr>
   <tr>
@@ -130,7 +130,7 @@
     <td>
       <strong>HTML5, CSS3</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=html,css&amp;theme=dark" alt="HTML5 and CSS3" />
+      <img height="52" src="https://skillicons.dev/icons?i=html,css&amp;theme=dark" alt="HTML5 and CSS3" />
     </td>
   </tr>
 </table>
@@ -143,8 +143,8 @@
     <td>
       <strong>MySQL, PostgreSQL, Neon DB, Redis, Firebase</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase&amp;theme=dark" alt="MySQL, PostgreSQL, Redis and Firebase" />
-      <img src="https://img.shields.io/badge/Neon_DB-393632?style=for-the-badge&amp;logo=neon&amp;logoColor=f1f0ed" alt="Neon DB" />
+      <img height="52" src="https://skillicons.dev/icons?i=mysql,postgres,redis,firebase&amp;theme=dark" alt="MySQL, PostgreSQL, Redis and Firebase" />&nbsp;&nbsp;
+      <img height="52" width="52" src="https://cdn.simpleicons.org/neon" alt="Neon DB" title="Neon DB" />
     </td>
   </tr>
   <tr>
@@ -152,12 +152,12 @@
     <td>
       <strong>Flyway, Liquibase, DBeaver, Docker, Kubernetes, Linux, ngrok, MobaXterm</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux&amp;theme=dark" alt="Docker, Kubernetes and Linux" />
-      <img src="https://img.shields.io/badge/Flyway-393632?style=for-the-badge&amp;logo=flyway&amp;logoColor=f1f0ed" alt="Flyway" />
-      <img src="https://img.shields.io/badge/Liquibase-393632?style=for-the-badge&amp;logo=liquibase&amp;logoColor=f1f0ed" alt="Liquibase" />
-      <img src="https://img.shields.io/badge/DBeaver-393632?style=for-the-badge&amp;logo=dbeaver&amp;logoColor=f1f0ed" alt="DBeaver" />
-      <img src="https://img.shields.io/badge/ngrok-8c8c73?style=for-the-badge&amp;logo=ngrok&amp;logoColor=f1f0ed" alt="ngrok" />
-      <img src="https://img.shields.io/badge/MobaXterm-8c8c73?style=for-the-badge&amp;logo=gnometerminal&amp;logoColor=f1f0ed" alt="MobaXterm" />
+      <img height="52" src="https://skillicons.dev/icons?i=docker,kubernetes,linux&amp;theme=dark" alt="Docker, Kubernetes and Linux" />&nbsp;&nbsp;
+      <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flyway/flyway-original.svg" alt="Flyway" title="Flyway" />&nbsp;&nbsp;
+      <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg" alt="Liquibase" title="Liquibase" />&nbsp;&nbsp;
+      <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" title="DBeaver" />&nbsp;&nbsp;
+      <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrok/ngrok-original.svg" alt="ngrok" title="ngrok" />&nbsp;&nbsp;
+      <img height="52" width="52" src="https://mobaxterm.mobatek.net/favicon.ico" alt="MobaXterm" title="MobaXterm" />
     </td>
   </tr>
   <tr>
@@ -165,8 +165,8 @@
     <td>
       <strong>Google Cloud, AWS, Tigris S3, Vercel, Git, GitHub, GitLab</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=gcp,aws,vercel,git,github,gitlab&amp;theme=dark" alt="Google Cloud, AWS, Vercel, Git, GitHub and GitLab" />
-      <img src="https://img.shields.io/badge/Tigris_S3-393632?style=for-the-badge&amp;logo=amazons3&amp;logoColor=f1f0ed" alt="Tigris S3" />
+      <img height="52" src="https://skillicons.dev/icons?i=gcp,aws,vercel,git,github,gitlab&amp;theme=dark" alt="Google Cloud, AWS, Vercel, Git, GitHub and GitLab" />&nbsp;&nbsp;
+      <img height="52" width="52" src="https://www.tigrisdata.com/favicon.jpg" alt="Tigris S3" title="Tigris S3" />
     </td>
   </tr>
   <tr>
@@ -174,8 +174,8 @@
     <td>
       <strong>IntelliJ IDEA, VS Code, WebStorm, npm, Jira</strong>
       <br /><br />
-      <img src="https://skillicons.dev/icons?i=idea,vscode,webstorm,npm&amp;theme=dark" alt="IntelliJ IDEA, Visual Studio Code, WebStorm and npm" />
-      <img src="https://img.shields.io/badge/Jira-393632?style=for-the-badge&amp;logo=jira&amp;logoColor=f1f0ed" alt="Jira" />
+      <img height="52" src="https://skillicons.dev/icons?i=idea,vscode,webstorm,npm&amp;theme=dark" alt="IntelliJ IDEA, Visual Studio Code, WebStorm and npm" />&nbsp;&nbsp;
+      <img height="52" width="52" src="https://cdn.simpleicons.org/jira" alt="Jira" title="Jira" />
     </td>
   </tr>
 </table>
