@@ -185,17 +185,18 @@
 ## Developer analytics
 
 <div align="center">
-  <a href="https://github.com/yesith-sri">
-    <img height="185" src="https://github-readme-stats.vercel.app/api?username=yesith-sri&amp;show_icons=true&amp;include_all_commits=true&amp;rank_icon=github&amp;bg_color=f1f0ed&amp;title_color=171717&amp;text_color=393632&amp;icon_color=8c8c73&amp;ring_color=8c8c73&amp;border_color=bfbfb1" alt="Yesith's GitHub score and statistics" />
-  </a>
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="185" src="https://streak-stats.demolab.com?user=yesith-sri&amp;background=F1F0ED&amp;border=BFBFB1&amp;ring=8C8C73&amp;fire=393632&amp;currStreakNum=171717&amp;sideNums=171717&amp;currStreakLabel=6B645C&amp;sideLabels=6B645C&amp;dates=7E766C" alt="Yesith's contribution streak" />
-  </a>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yesith-sri&amp;theme=solarized" alt="Yesith's GitHub contribution overview" />
 </div>
 
 <div align="center">
-  <a href="https://github.com/yesith-sri?tab=repositories">
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yesith-sri&amp;layout=compact&amp;langs_count=8&amp;size_weight=0.5&amp;count_weight=0.5&amp;bg_color=f1f0ed&amp;title_color=171717&amp;text_color=393632&amp;border_color=bfbfb1" alt="Yesith's most-used languages" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yesith-sri&amp;theme=solarized" alt="Yesith's GitHub statistics" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yesith-sri&amp;theme=solarized" alt="Yesith's repositories by language" />
+</div>
+
+<div align="center">
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yesith-sri&amp;theme=solarized" alt="Yesith's most-used commit languages" />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img height="200" src="https://streak-stats.demolab.com?user=yesith-sri&amp;background=F1F0ED&amp;border=BFBFB1&amp;ring=8C8C73&amp;fire=393632&amp;currStreakNum=171717&amp;sideNums=171717&amp;currStreakLabel=6B645C&amp;sideLabels=6B645C&amp;dates=7E766C" alt="Yesith's contribution streak" />
   </a>
 </div>
 
@@ -203,8 +204,8 @@
   <summary><strong>How to read this dashboard</strong></summary>
   <br />
   <p>
-    The score card summarizes public commits, pull requests, issues, reviews, stars, and contributions.
-    Language percentages describe repository code volume, not personal proficiency. Some cards are cached,
+    The dashboard summarizes public commits, pull requests, issues, reviews, stars, and contributions.
+    Language percentages describe repository code volume, not personal proficiency. Cards are cached,
     so today's activity can take a little while to appear.
   </p>
 </details>
