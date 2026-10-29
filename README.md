@@ -76,11 +76,13 @@
 
 ## Technology toolbox
 
-### Languages &amp; backend
-
 <table>
   <tr>
-    <td width="8%"><code>01</code></td>
+    <td width="18%" align="center"><strong>AREA</strong></td>
+    <td><strong>STACK &amp; TOOLS</strong></td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><code>01</code><br /><strong>Languages</strong></td>
     <td>
       <strong>Java, C/C++, C#, .NET, Python, Go</strong>
       <br /><br />
@@ -88,7 +90,7 @@
     </td>
   </tr>
   <tr>
-    <td><code>02</code></td>
+    <td align="center" valign="middle"><code>02</code><br /><strong>JS Runtime</strong></td>
     <td>
       <strong>JavaScript, TypeScript, Node.js, Bun, Express</strong>
       <br /><br />
@@ -96,7 +98,7 @@
     </td>
   </tr>
   <tr>
-    <td><code>03</code></td>
+    <td align="center" valign="middle"><code>03</code><br /><strong>Backend &amp; APIs</strong></td>
     <td>
       <strong>Spring Boot, Swagger, Zod, REST APIs</strong>
       <br /><br />
@@ -106,43 +108,25 @@
       <img height="52" width="52" src="https://cdn.simpleicons.org/fastapi" alt="REST APIs" title="REST APIs" />
     </td>
   </tr>
-</table>
-
-### Frontend
-
-<table>
   <tr>
-    <td width="8%"><code>01</code></td>
+    <td align="center" valign="middle"><code>04</code><br /><strong>Frontend</strong></td>
     <td>
-      <strong>React, Next.js, TanStack</strong>
+      <strong>React, Next.js, TanStack, Angular</strong>
       <br /><br />
-      <img height="52" src="https://skillicons.dev/icons?i=react,nextjs&amp;theme=dark" alt="React and Next.js" />&nbsp;&nbsp;
+      <img height="52" src="https://skillicons.dev/icons?i=react,nextjs,angular&amp;theme=dark" alt="React, Next.js and Angular" />&nbsp;&nbsp;
       <img height="52" width="52" src="https://cdn.simpleicons.org/reactquery" alt="TanStack" title="TanStack" />
     </td>
   </tr>
   <tr>
-    <td><code>02</code></td>
+    <td align="center" valign="middle"><code>05</code><br /><strong>UI Foundations</strong></td>
     <td>
-      <strong>Angular, Tailwind CSS, Bootstrap</strong>
+      <strong>Tailwind CSS, Bootstrap, HTML5, CSS3</strong>
       <br /><br />
-      <img height="52" src="https://skillicons.dev/icons?i=angular,tailwind,bootstrap&amp;theme=dark" alt="Angular, Tailwind CSS and Bootstrap" />
+      <img height="52" src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css&amp;theme=dark" alt="Tailwind CSS, Bootstrap, HTML5 and CSS3" />
     </td>
   </tr>
   <tr>
-    <td><code>03</code></td>
-    <td>
-      <strong>HTML5, CSS3</strong>
-      <br /><br />
-      <img height="52" src="https://skillicons.dev/icons?i=html,css&amp;theme=dark" alt="HTML5 and CSS3" />
-    </td>
-  </tr>
-</table>
-
-### Data, cloud &amp; tooling
-
-<table>
-  <tr>
-    <td width="8%"><code>01</code></td>
+    <td align="center" valign="middle"><code>06</code><br /><strong>Databases</strong></td>
     <td>
       <strong>MySQL, PostgreSQL, Neon DB, Redis, Firebase</strong>
       <br /><br />
@@ -151,33 +135,40 @@
     </td>
   </tr>
   <tr>
-    <td><code>02</code></td>
+    <td align="center" valign="middle"><code>07</code><br /><strong>Data Tooling</strong></td>
     <td>
-      <strong>Flyway, Liquibase, DBeaver, Docker, Kubernetes, Linux, ngrok, MobaXterm</strong>
+      <strong>Flyway, Liquibase, DBeaver</strong>
       <br /><br />
-      <img height="52" src="https://skillicons.dev/icons?i=docker,kubernetes,linux&amp;theme=dark" alt="Docker, Kubernetes and Linux" />&nbsp;&nbsp;
       <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flyway/flyway-original.svg" alt="Flyway" title="Flyway" />&nbsp;&nbsp;
       <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg" alt="Liquibase" title="Liquibase" />&nbsp;&nbsp;
-      <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" title="DBeaver" />&nbsp;&nbsp;
+      <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" title="DBeaver" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle"><code>08</code><br /><strong>DevOps &amp; Systems</strong></td>
+    <td>
+      <strong>Docker, Kubernetes, Linux, ngrok, MobaXterm</strong>
+      <br /><br />
+      <img height="52" src="https://skillicons.dev/icons?i=docker,kubernetes,linux&amp;theme=dark" alt="Docker, Kubernetes and Linux" />&nbsp;&nbsp;
       <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrok/ngrok-original.svg" alt="ngrok" title="ngrok" />&nbsp;&nbsp;
       <img height="52" width="52" src="https://mobaxterm.mobatek.net/favicon.ico" alt="MobaXterm" title="MobaXterm" />
     </td>
   </tr>
   <tr>
-    <td><code>03</code></td>
+    <td align="center" valign="middle"><code>09</code><br /><strong>Cloud &amp; Delivery</strong></td>
     <td>
-      <strong>Google Cloud, AWS, Tigris S3, Vercel, Git, GitHub, GitLab</strong>
+      <strong>Google Cloud, AWS, Tigris S3, Vercel</strong>
       <br /><br />
-      <img height="52" src="https://skillicons.dev/icons?i=gcp,aws,vercel,git,github,gitlab&amp;theme=dark" alt="Google Cloud, AWS, Vercel, Git, GitHub and GitLab" />&nbsp;&nbsp;
+      <img height="52" src="https://skillicons.dev/icons?i=gcp,aws,vercel&amp;theme=dark" alt="Google Cloud, AWS and Vercel" />&nbsp;&nbsp;
       <img height="52" width="52" src="https://www.tigrisdata.com/favicon.jpg" alt="Tigris S3" title="Tigris S3" />
     </td>
   </tr>
   <tr>
-    <td><code>04</code></td>
+    <td align="center" valign="middle"><code>10</code><br /><strong>Workflow</strong></td>
     <td>
-      <strong>IntelliJ IDEA, VS Code, WebStorm, npm, Jira</strong>
+      <strong>Git, GitHub, GitLab, IntelliJ IDEA, VS Code, WebStorm, npm, Jira</strong>
       <br /><br />
-      <img height="52" src="https://skillicons.dev/icons?i=idea,vscode,webstorm,npm&amp;theme=dark" alt="IntelliJ IDEA, Visual Studio Code, WebStorm and npm" />&nbsp;&nbsp;
+      <img height="52" src="https://skillicons.dev/icons?i=git,github,gitlab,idea,vscode,webstorm,npm&amp;theme=dark" alt="Git, GitHub, GitLab, IntelliJ IDEA, Visual Studio Code, WebStorm and npm" />&nbsp;&nbsp;
       <img height="52" width="52" src="https://cdn.simpleicons.org/jira" alt="Jira" title="Jira" />
     </td>
   </tr>
