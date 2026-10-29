@@ -2,27 +2,35 @@
 
 <p align="center">
   <strong>Full-Stack Developer · Sri Lanka</strong><br />
-  Building thoughtful, high-performance digital experiences.
+  I build thoughtful, high-performance digital experiences with clean interfaces and reliable systems.
 </p>
 
 <div align="center">
-  <a href="https://github.com/yesith-sri?tab=followers">
-    <img src="https://img.shields.io/github/followers/yesith-sri?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=f1f0ed&color=6b645c" alt="GitHub followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=yesith-sri&label=PROFILE%20VIEWS&style=for-the-badge&color=8c8c73" alt="Profile views" />
-  <a href="https://github.com/yesith-sri?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/yesith-sri?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=f1f0ed&label=STARS&color=524d47" alt="GitHub stars" />
+  <a href="https://www.hansana.dev/">
+    <img src="https://www.hansana.dev/og-image.png?v=4" width="760" alt="Yesith Hansana — Full-Stack Developer portfolio" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <p><code>FULL-STACK DEVELOPER · SRI LANKA</code></p>
-  <p>
-    I turn ambitious ideas into polished products—pairing responsive interfaces with reliable
-    backend systems, clean architecture, and careful details.
-  </p>
+  <a href="https://www.hansana.dev/" title="Portfolio">
+    <img src="./assets/social/website.svg" width="38" height="38" alt="Portfolio" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/yesith-sri" title="GitHub">
+    <img src="./assets/social/github.svg" width="38" height="38" alt="GitHub" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/yesith-sri-hansana-7aa91a293/" title="LinkedIn">
+    <img src="./assets/social/linkedin.svg" width="38" height="38" alt="LinkedIn" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/_yesith.h_/" title="Instagram">
+    <img src="./assets/social/instagram.svg" width="38" height="38" alt="Instagram" />
+  </a>&nbsp;&nbsp;
+  <a href="https://facebook.com/yesith.hansana.5" title="Facebook">
+    <img src="./assets/social/facebook.svg" width="38" height="38" alt="Facebook" />
+  </a>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=yesith-sri&label=PROFILE%20VIEWS&style=flat-square&color=8c8c73" alt="Profile views" />
   <p>
     <a href="https://www.hansana.dev/"><strong>Explore hansana.dev →</strong></a>
     &nbsp;·&nbsp;
@@ -60,18 +68,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yesith-sri-hansana-7aa91a293/">
-    <img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-393632?style=for-the-badge&logo=linkedin&logoColor=f1f0ed" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/_yesith.h_/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-FOLLOW-6B645C?style=for-the-badge&logo=instagram&logoColor=f1f0ed" alt="Instagram" />
-  </a>
-  <a href="https://facebook.com/yesith.hansana.5">
-    <img src="https://img.shields.io/badge/FACEBOOK-CONNECT-8C8C73?style=for-the-badge&logo=facebook&logoColor=f1f0ed" alt="Facebook" />
-  </a>
-</div>
 
 <br />
 
