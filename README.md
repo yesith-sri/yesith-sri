@@ -1,10 +1,11 @@
+<h1 align="center">Hi, I'm Yesith Hansana 👋</h1>
+
+<p align="center">
+  <strong>Full-Stack Developer · Sri Lanka</strong><br />
+  Building thoughtful, high-performance digital experiences.
+</p>
+
 <div align="center">
-  <a href="https://www.hansana.dev/">
-    <img src="./assets/portfolio-banner-rearranged.png" width="100%" alt="Yesith Hansana — Full-Stack Developer portfolio banner" />
-  </a>
-
-  <br />
-
   <a href="https://github.com/yesith-sri?tab=followers">
     <img src="https://img.shields.io/github/followers/yesith-sri?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=f1f0ed&color=6b645c" alt="GitHub followers" />
   </a>
