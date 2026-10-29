@@ -1,13 +1,10 @@
 <div align="center">
   <a href="https://www.hansana.dev/">
-    <img src="./assets/portfolio-banner.png" width="100%" alt="Yesith Hansana — Full-Stack Developer portfolio banner" />
+    <img src="./assets/portfolio-banner-clean.png" width="100%" alt="Yesith Hansana — Full-Stack Developer portfolio banner" />
   </a>
 
   <br />
 
-  <a href="https://www.hansana.dev/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-HANSANA.DEV-393632?style=for-the-badge&logo=googlechrome&logoColor=f1f0ed" alt="Visit hansana.dev" />
-  </a>
   <a href="https://github.com/yesith-sri?tab=followers">
     <img src="https://img.shields.io/github/followers/yesith-sri?label=FOLLOWERS&style=for-the-badge&logo=github&logoColor=f1f0ed&color=6b645c" alt="GitHub followers" />
   </a>
