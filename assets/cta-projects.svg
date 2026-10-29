@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="270" height="56" viewBox="0 0 270 56" role="img" aria-labelledby="title desc">
+  <title id="title">View my work</title>
+  <desc id="desc">Animated GitHub projects link button</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f5f1e3"/><stop offset=".6" stop-color="#e8e3d1"/><stop offset="1" stop-color="#d8d3bf"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="268" height="54" rx="14" fill="url(#surface)" stroke="#8c8c73" stroke-width="2"/>
+  <circle cx="29" cy="28" r="14" fill="#2b2925"/>
+  <path d="m26 22-6 6 6 6m6-12 6 6-6 6m-3-14-3 16" fill="none" stroke="#f2eedf" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="54" y="24" fill="#6f6a60" font-family="Segoe UI, Arial, sans-serif" font-size="9" font-weight="700" letter-spacing="1.7">GITHUB</text>
+  <text x="54" y="41" fill="#22201d" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700">View my projects</text>
+  <g fill="none" stroke="#22201d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M235 28h12m-5-5 5 5-5 5"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;5 0;0 0" dur="1.5s" begin=".3s" repeatCount="indefinite"/>
+  </g>
+  <rect x="54" y="47" width="0" height="2" rx="1" fill="#8c8c73"><animate attributeName="width" values="0;112;0" keyTimes="0;.55;1" dur="3.2s" begin=".3s" repeatCount="indefinite"/></rect>
+</svg>

@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Yesith Hansana 👋</h1>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/animated-name-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/animated-name-light.svg" />
+    <img src="./assets/animated-name-light.svg" width="760" alt="Hi, I'm Yesith Hansana" />
+  </picture>
+</div>
 
 <p align="center">
   <strong>Full-Stack Developer · Sri Lanka</strong><br />
@@ -31,11 +37,13 @@
   </a>
   <br /><br />
   <img src="https://komarev.com/ghpvc/?username=yesith-sri&label=PROFILE%20VIEWS&style=flat-square&color=8c8c73" alt="Profile views" />
-  <p>
-    <a href="https://www.hansana.dev/"><strong>Explore hansana.dev →</strong></a>
-    &nbsp;·&nbsp;
-    <a href="https://github.com/yesith-sri?tab=repositories"><strong>View my work →</strong></a>
-  </p>
+  <br /><br />
+  <a href="https://www.hansana.dev/" title="Visit hansana.dev">
+    <img src="./assets/cta-portfolio.svg" height="52" alt="Explore hansana.dev" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/yesith-sri?tab=repositories" title="Explore my GitHub projects">
+    <img src="./assets/cta-projects.svg" height="52" alt="View my work" />
+  </a>
 </div>
 
 <br />
