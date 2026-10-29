@@ -1,0 +1,80 @@
+<svg width="1200" height="250" viewBox="0 0 1200 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Yesith Hansana coding animation</title>
+  <desc id="desc">An animated cream code editor showing Yesith's development focus.</desc>
+
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1200" y2="250" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FDF6E3" />
+      <stop offset="1" stop-color="#F4EDDA" />
+    </linearGradient>
+    <clipPath id="editor">
+      <rect width="1200" height="250" rx="20" />
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#editor)">
+    <rect width="1200" height="250" fill="url(#paper)" />
+    <rect width="1200" height="44" fill="#393632" />
+    <rect y="44" width="54" height="206" fill="#E9E0CC" />
+
+    <circle cx="22" cy="22" r="5" fill="#B58900" />
+    <circle cx="40" cy="22" r="5" fill="#8C8C73" />
+    <circle cx="58" cy="22" r="5" fill="#859900" />
+    <text x="88" y="28" fill="#FDF6E3" font-family="Consolas, Courier New, monospace" font-size="14" font-weight="700">profile.ts</text>
+    <circle cx="1072" cy="22" r="5" fill="#859900">
+      <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite" />
+    </circle>
+    <text x="1086" y="27" fill="#D8D4C1" font-family="Consolas, Courier New, monospace" font-size="12" font-weight="700">BUILDING</text>
+
+    <rect x="54" y="58" width="1134" height="34" rx="8" fill="#8C8C73" opacity="0.08">
+      <animate attributeName="y" values="58;94;130;166;202;58" dur="8s" calcMode="spline" keySplines="0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1;0.4 0 0.2 1" repeatCount="indefinite" />
+    </rect>
+
+    <g font-family="Consolas, Courier New, monospace" font-size="18">
+      <g fill="#7E766C" text-anchor="middle">
+        <text x="27" y="82">1</text>
+        <text x="27" y="118">2</text>
+        <text x="27" y="154">3</text>
+        <text x="27" y="190">4</text>
+        <text x="27" y="226">5</text>
+      </g>
+
+      <text x="76" y="82">
+        <tspan fill="#B58900" font-weight="700">const</tspan>
+        <tspan fill="#268BD2"> developer</tspan>
+        <tspan fill="#586E75"> = {</tspan>
+      </text>
+
+      <text x="108" y="118">
+        <tspan fill="#268BD2">name</tspan>
+        <tspan fill="#586E75">: </tspan>
+        <tspan fill="#859900">&quot;Yesith Hansana&quot;</tspan>
+        <tspan fill="#586E75">,</tspan>
+      </text>
+
+      <text x="108" y="154">
+        <tspan fill="#268BD2">focus</tspan>
+        <tspan fill="#586E75">: [</tspan>
+        <tspan fill="#859900">&quot;web&quot;</tspan>
+        <tspan fill="#586E75">, </tspan>
+        <tspan fill="#859900">&quot;backend&quot;</tspan>
+        <tspan fill="#586E75">, </tspan>
+        <tspan fill="#859900">&quot;cloud&quot;</tspan>
+        <tspan fill="#586E75">],</tspan>
+      </text>
+
+      <text x="108" y="190">
+        <tspan fill="#268BD2">status</tspan>
+        <tspan fill="#586E75">: </tspan>
+        <tspan fill="#859900">&quot;building thoughtful software&quot;</tspan>
+      </text>
+
+      <text x="76" y="226" fill="#586E75">};</text>
+      <rect x="101" y="207" width="9" height="22" rx="1" fill="#B58900">
+        <animate attributeName="opacity" values="1;1;0;0;1" dur="1.1s" repeatCount="indefinite" />
+      </rect>
+    </g>
+
+    <rect x="0" y="0" width="1198" height="248" rx="19" stroke="#BFBFB1" stroke-width="2" />
+  </g>
+</svg>

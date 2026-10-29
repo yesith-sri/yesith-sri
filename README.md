@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.hansana.dev/">
-    <img src="./assets/portfolio-banner-full.png" width="100%" alt="Yesith Hansana — Full-Stack Developer portfolio banner" />
+    <img src="./assets/portfolio-banner-cropped.png" width="100%" alt="Yesith Hansana — Full-Stack Developer portfolio banner" />
   </a>
 
   <br />
@@ -27,6 +27,12 @@
     &nbsp;·&nbsp;
     <a href="https://github.com/yesith-sri?tab=repositories"><strong>View my work →</strong></a>
   </p>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="./assets/coding-animation.svg" width="100%" alt="Animated code editor introducing Yesith Hansana" />
 </div>
 
 ## A little more about me
