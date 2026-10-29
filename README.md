@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.hansana.dev/">
-    <img src="./assets/portfolio-banner-new.png" width="100%" alt="Yesith Hansana — Full-Stack Developer portfolio banner" />
+    <img src="./assets/portfolio-banner-rearranged.png" width="100%" alt="Yesith Hansana — Full-Stack Developer portfolio banner" />
   </a>
 
   <br />
