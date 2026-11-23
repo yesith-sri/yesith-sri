@@ -139,6 +139,7 @@
     <td align="center" valign="middle"><code>08</code><br /><strong>DevOps &amp; Systems</strong></td>
     <td>
       <img height="52" src="https://skillicons.dev/icons?i=docker,kubernetes,linux&amp;theme=dark" alt="Docker, Kubernetes and Linux" />&nbsp;&nbsp;
+      <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" alt="Ansible" title="Ansible" />&nbsp;&nbsp;
       <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrok/ngrok-original.svg" alt="ngrok" title="ngrok" />&nbsp;&nbsp;
       <img height="52" width="52" src="https://mobaxterm.mobatek.net/favicon.ico" alt="MobaXterm" title="MobaXterm" />
     </td>
